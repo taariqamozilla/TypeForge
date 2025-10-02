@@ -8,11 +8,11 @@ import {
 
 import {
     Select,
-    SelectTrigger,
-    SelectItem,
-    SelectValue,
     SelectContent,
-} from "@/components/ui/select"
+    SelectItem,
+    SelectTrigger,
+    SelectValue,
+} from './components/ui/select'
 
 export default function AppSidebar() {
     return(
